@@ -261,11 +261,11 @@ footer {
 
 320 480 768 980 1200 1400 */
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 420px) {
     .container {
         display: grid;
         grid-template-rows: 1fr 3fr 2fr 3fr 2fr;
-        margin-left: 30px;
+        margin-left: 10px;
         margin-top: 30px;
     }
 
@@ -319,7 +319,7 @@ footer {
     }
 
     .family {
-        margin-left: 30px;
+        margin-left: 10px;
     }
 
     .form {
@@ -342,7 +342,7 @@ footer {
         grid-row: 2/4;
         margin-top: 0;
         justify-content: center;
-        padding: 30px 31px 14px 31px;
+        padding: 20px 21px 14px 21px;
         border: 1px solid rgba(29, 37, 60, 0.2);
         border-radius: 10px;
         background: #F46752;
