@@ -105,6 +105,7 @@
         background-color: rgb(226, 226, 226);
         justify-content: space-around;
         padding-right: 3%;
+        padding-left: 3%;
 
     }
 
@@ -238,7 +239,8 @@
         background-color: rgb(226, 226, 226);
         justify-content: space-around;
         padding-right: 3%;
-
+        padding-left: 3%;
+        padding-bottom: 5%;
     }
 
     .f1 {
@@ -248,8 +250,8 @@
         align-items: center;
         justify-content: center;
         margin-left: 3%;
-        margin-top: 25%;
-        margin-bottom: 25%;
+        margin-top: 15%;
+        margin-bottom: 15%;
         padding: 10% 5% 10% 5%;
 
     }
